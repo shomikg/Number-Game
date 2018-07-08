@@ -1,6 +1,6 @@
 # NUMBER GAME
 
-Live on - https://shomikg.github.io/LoanCalculator/
+Live on - https://shomikg.github.io/Number-Game/
 A short interactive game developed using Vanilla JS which makes users judge a random number just in 3 guesses.
 
 ![Web application with text input values inputted](screenshot.JPG)
